@@ -13,28 +13,48 @@ then it will ask us for the program length which is 000035 and you can find thes
 this is the output
 
 Enter The Program Name : SAMPLE
+
 Enter The Program Length
 000035
+
 Program Found
 
 
 Memory 	 	 Data
 
 0	 	 00
+
 1	 	 10
+
 2	 	 03
+
 3	 	 07
+
 4	 	 10
+
 5	 	 09
+
 6	 	 11
+
 7	 	 11
+
 8	 	 11
+
 9	 	 02
+
 a	 	 1C
+
 b	 	 5F
+
 c	 	 FF
+
 d	 	 12
+
 e	 	 C2
+
 f	 	 34
+
 10	 	 2D
+
 11	 	 01
+
