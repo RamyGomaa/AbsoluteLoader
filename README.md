@@ -2,7 +2,7 @@
 This is my approach of creating an Absolute loader using java language for system programming course 
 
 
-We have a file called ASSEMBLER.txt that has the programs that will be loading using our loader.
+We have a file called ASSEMBLER.txt that has the programs that will be loaded using our loader.
 
 when we run the java program it will ask us to write the program name 
 
